@@ -1,2 +1,2 @@
-# Introducción a la computación gráfica
-Computación gráfica en 2D
+# Computación gráfica en 2D
+Códigos ejecutados en Jupyter Notebook
