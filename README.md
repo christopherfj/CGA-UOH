@@ -2,6 +2,7 @@
 Cátedras del curso dictado en el semestre 2022-1 en laUOH <br/><br/>
 
 ## Los contenidos del curso son:
+
 <b>CAP1.</b> Introducción a la computación gráfica
 <b>CAP2.</b> Computación gráfica en 2D
 <b>CAP3.</b> Computación gráfica en 3D
