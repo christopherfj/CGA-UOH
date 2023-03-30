@@ -1,1 +1,2 @@
-
+PyQtGraph básico
+OpenCV básico
