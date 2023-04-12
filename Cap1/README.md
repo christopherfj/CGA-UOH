@@ -3,5 +3,5 @@ Códigos ejecutados en:
 
 Google Colab
 
-Jupyter notebook (interfaces gráficas)
+Jupyter notebook / Spyder (interfaces gráficas)
 
