@@ -4,7 +4,6 @@ Reflexión
 
 Cizallamiento
 
-Escalamiento
 
 <br/>
 
