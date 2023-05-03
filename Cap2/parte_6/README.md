@@ -1,4 +1,4 @@
-Funciones básicas en OpenGL
+Funciones básicas en OpenGL:
 
 Traslación
 
