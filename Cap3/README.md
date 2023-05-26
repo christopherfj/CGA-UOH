@@ -4,4 +4,4 @@ Códigos ejecutados en:
 
 Jupyter notebook / Spyder
 
-Parte 1 tiene código
+Partes 1 y 3 no tienen código
