@@ -4,9 +4,15 @@ Reflexión
 
 Cizallamiento
 
-
 <br/>
 
-Funciones de OpenGL
+Funciones en OpenGL
 
-Manejo de eventos (teclado/mouse)
+Traslación
+
+Eslacamiento
+
+Rotación
+
+
+

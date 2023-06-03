@@ -1,13 +1,6 @@
 Funciones básicas en OpenGL:
 
-Traslación
+Funciones de OpenGL (círcunferencia)
 
-Eslacamiento
+Manejo de eventos (teclado/mouse)
 
-Rotación
-
-<br/>
-
-Funciones de OpenGL
-
-Primitivas en OpenGL
